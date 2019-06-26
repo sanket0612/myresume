@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/myresume/static/css/main.5facb584.chunk.css",
+    "main.js": "/myresume/static/js/main.8c4d140a.chunk.js",
+    "main.js.map": "/myresume/static/js/main.8c4d140a.chunk.js.map",
+    "runtime~main.js": "/myresume/static/js/runtime~main.6f2b030a.js",
+    "runtime~main.js.map": "/myresume/static/js/runtime~main.6f2b030a.js.map",
+    "static/js/2.5ae3991e.chunk.js": "/myresume/static/js/2.5ae3991e.chunk.js",
+    "static/js/2.5ae3991e.chunk.js.map": "/myresume/static/js/2.5ae3991e.chunk.js.map",
+    "index.html": "/myresume/index.html",
+    "precache-manifest.a6891a1512c7cd8ec073f1f3cee93382.js": "/myresume/precache-manifest.a6891a1512c7cd8ec073f1f3cee93382.js",
+    "service-worker.js": "/myresume/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/myresume/static/css/main.5facb584.chunk.css.map"
+  }
+}

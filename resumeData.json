@@ -1,0 +1,164 @@
+{
+  "main": {
+    "name": "Sanket Barapatre",
+    "occupation": "Software Developer",
+    "description": "Looking for a challenging environment that creates an ideal condition for delivering high quality product.\n      Aspiring to associate with an organization, which offers a competitive environment for growth.",
+    "image": "profilepic.jpg",
+    "bio": "Hardworking, self motivated and team oriented effective team player with excellent communication and inter-personal skills.",
+    "contactmessage": "Reach out to me anytime at: ",
+    "email": "sanket.barapatre.06@gmail.com",
+    "phone": "7747976863 ",
+    "address": {
+      "street": "Whitefields, Kondapur",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": "500081"
+    },
+    "website": "https://sankubunny.github.io/test-react/",
+    "resumedownload": "https://sankubunny.github.io/test-react/",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/tim.baker.906",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Sanket_064",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "google-plus",
+        "url": "http://googleplus.com/tbakerx",
+        "className": "fa fa-google-plus"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sanket-barapatre-51b02b7a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/tbaker_x",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/sankubunny/",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "http://skype.com",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "A Full stack developer passionate towards real time problem solving that would enhance my skills using latest technologies.",
+    "education": [
+      {
+        "school": "National Institure of Technology Raipur,Chattisgarh",
+        "degree": "Bachelor of Technology in Electronics and Telecommunication",
+        "graduated": "May 2016",
+        "description": "--"
+      },
+      {
+        "school": "R.N. Podar School, Santacruz, Mumbai,Maharashtra ",
+        "degree": "Intermediate (11th, 12th)",
+        "graduated": "March 2012",
+        "description": "--"
+      }
+    ],
+    "work": [
+      {
+        "company": "Intellect Design Arena Ltd.",
+        "title": "Product Developer",
+        "years": "June 2016 - Present",
+        "description": "Played key role in development and in production. Worked as full stack developer in Sencha Ext JS, with Spring framework, and persisting data in MongoDB.\nAchievements"
+      },
+      {
+        "company": "Super Cool Studio",
+        "title": "Junior bug fixer",
+        "years": "March 2007 - February 2010",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Java",
+        "level": "75%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Spring Boot",
+        "level": "60%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
